@@ -1,0 +1,28 @@
+[
+  {
+    "id": "d8e3f891-3760-4fa1-b181-5e73f0b03d03",
+    "name": "Staklo Import d.o.o.",
+    "type": "company",
+    "address": "Radnička 28, Zagreb",
+    "oib": "11223344556",
+    "phone": "01 345 6789",
+    "email": "nabava@stakloimport.hr",
+    "notes": "Glavni dobavljač float stakla",
+    "contactPerson": "Petar Dobavljač",
+    "tenantId": "cc5200a8-ace4-4db1-876d-161f8967069f",
+    "createdAt": "2024-01-10T09:00:00Z"
+  },
+  {
+    "id": "e9f4f902-4871-5fb2-c292-6f84f1c04e14",
+    "name": "Glass Materials Ltd.",
+    "type": "company",
+    "address": "Industrijska 55, Osijek",
+    "oib": "66778899001",
+    "phone": "031 456 7890",
+    "email": "sales@glassmaterials.hr",
+    "notes": "Specijalizirani za aluminijske profile",
+    "contactPerson": "Marija Profil",
+    "tenantId": "cc5200a8-ace4-4db1-876d-161f8967069f",
+    "createdAt": "2024-02-05T11:30:00Z"
+  }
+]

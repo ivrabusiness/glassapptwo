@@ -1,0 +1,129 @@
+[
+  {
+    "id": "befa5ff5-6da5-476e-945c-0501614d5769",
+    "name": "Kaljenje",
+    "description": "Termička obrada stakla za povećanje čvrstoće",
+    "order": 1,
+    "price": 0,
+    "estimatedDuration": 15,
+    "tenantId": "cc5200a8-ace4-4db1-876d-161f8967069f",
+    "createdAt": "2025-08-17T16:00:07.293+00:00",
+    "priceType": "square_meter",
+    "thicknessPrices": [
+      {
+        "price": 8,
+        "thickness": 4
+      },
+      {
+        "price": 12,
+        "thickness": 6
+      },
+      {
+        "price": 15,
+        "thickness": 8
+      },
+      {
+        "price": 18,
+        "thickness": 10
+      },
+      {
+        "price": 22,
+        "thickness": 12
+      }
+    ]
+  },
+  {
+    "id": "45c13b32-8437-46d5-98d4-3748bd8ff490",
+    "name": "Rezanje",
+    "description": "Precizno rezanje stakla na zadane dimenzije",
+    "order": 2,
+    "price": 5,
+    "estimatedDuration": 8,
+    "tenantId": "cc5200a8-ace4-4db1-876d-161f8967069f",
+    "createdAt": "2025-08-17T16:00:07.293+00:00",
+    "priceType": "square_meter",
+    "thicknessPrices": []
+  },
+  {
+    "id": "5893c47a-4eda-46c0-9cf7-a1f744c3bd1d",
+    "name": "Brušenje",
+    "description": "Brušenje rubova stakla za sigurnost i estetiku",
+    "order": 3,
+    "price": 3.5,
+    "estimatedDuration": 12,
+    "tenantId": "cc5200a8-ace4-4db1-876d-161f8967069f",
+    "createdAt": "2025-08-17T16:00:07.293+00:00",
+    "priceType": "linear_meter",
+    "thicknessPrices": []
+  },
+  {
+    "id": "a7b8c9d0-1234-5678-9abc-def012345678",
+    "name": "Laminiranje",
+    "description": "Spajanje više slojeva stakla s PVB folijom",
+    "order": 4,
+    "price": 0,
+    "estimatedDuration": 25,
+    "tenantId": "cc5200a8-ace4-4db1-876d-161f8967069f",
+    "createdAt": "2025-08-17T16:00:07.293+00:00",
+    "priceType": "square_meter",
+    "thicknessPrices": [
+      {
+        "price": 25,
+        "thickness": 6
+      },
+      {
+        "price": 35,
+        "thickness": 8
+      },
+      {
+        "price": 45,
+        "thickness": 10
+      },
+      {
+        "price": 55,
+        "thickness": 12
+      }
+    ]
+  },
+  {
+    "id": "b8c9d0e1-2345-6789-abcd-ef0123456789",
+    "name": "Bušenje",
+    "description": "Izrada rupa u staklu za montažu",
+    "order": 5,
+    "price": 15,
+    "estimatedDuration": 10,
+    "tenantId": "cc5200a8-ace4-4db1-876d-161f8967069f",
+    "createdAt": "2025-08-17T16:00:07.293+00:00",
+    "priceType": "piece",
+    "thicknessPrices": []
+  },
+  {
+    "id": "c9d0e1f2-3456-789a-bcde-f01234567890",
+    "name": "Izolir staklo",
+    "description": "Proizvodnja termoizolirnog stakla",
+    "order": 6,
+    "price": 0,
+    "estimatedDuration": 30,
+    "tenantId": "cc5200a8-ace4-4db1-876d-161f8967069f",
+    "createdAt": "2025-08-17T16:00:07.293+00:00",
+    "priceType": "square_meter",
+    "thicknessPrices": [
+      {
+        "price": 18,
+        "thickness": 16
+      },
+      {
+        "price": 22,
+        "thickness": 20
+      },
+      {
+        "price": 26,
+        "thickness": 24
+      },
+      {
+        "price": 30,
+        "thickness": 28
+      }
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+-- NAPOMENA: Ova migracija NIJE potrebna!
+-- 
+-- Default procesi se označavaju na PRODUCT LEVEL-u kroz ProcessStep.isDefault
+-- a ne na globalnoj processes tablici.
+--
+-- Ova datoteka se može obrisati jer se ne koristi.
+--
+-- Default procesi se upravljaju kroz:
+-- 1. Products.tsx - označavanje default procesa za svaki proizvod
+-- 2. ProcessStep.isDefault - flag na product level-u
+-- 3. Logika u ponudama/nalozima koja čita ProcessStep.isDefault
+
+-- NE POKREĆITE OVU MIGRACIJU!
